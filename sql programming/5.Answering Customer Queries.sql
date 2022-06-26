@@ -1,12 +1,12 @@
 show databases;
--- select database();
--- use photo_store;
+ select database();
+ use photo_store;
 
--- show tables;
+ show tables;
 
--- desc canon_cameras;
+ desc canon_cameras;
 
--- select * from canon_cameras;
+select * from canon_cameras;
 
 /* WHAT MODELS OF CANON CAMERAS DO YOU HAVE ? */
 
