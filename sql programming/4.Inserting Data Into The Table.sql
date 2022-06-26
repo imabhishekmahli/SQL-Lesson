@@ -5,4 +5,4 @@ values("70-D",12),
         ("EOS-r5",80),
         ("EOS-r6",50);
         
-select * from canon_cameras
+select * from canon_cameras;
