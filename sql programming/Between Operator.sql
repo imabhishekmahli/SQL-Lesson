@@ -7,6 +7,6 @@
 -- select * from college.student;
 
 select * from student 
-where id between 2 and 3;
+where id /*(NOT)*/ between 2 and 3;
 
 -- where columns>=$$ and/or columns<=$$
