@@ -1,0 +1,8 @@
+-- SHOW DATABASES;
+-- USE COLLEGE;
+
+-- SHOW TABLES;
+
+-- SELECT * FROM college.student;
+
+SELECT * FROM student WHERE NAME BETWEEN 'KUMAR' AND 'ROHAN';
